@@ -13,4 +13,6 @@ Tools Used
   High sales do not always mean high profit, emphasizing the importance of profit-focused analysis.
 
 ## 🔗 Dashboard Link
-(https://public.tableau.com/app/profile/ramya.pathak/viz/Salesdashboard_17775383130560/Dashboard1?publish=yes)
+https://public.tableau.com/app/profile/ramya.pathak/viz/Salesdashboard_17775383130560/Dashboard1?publish=yes
+
+https://public.tableau.com/app/profile/ramya.pathak/viz/Book3_17775593545380/Dashboard1?publish=yes
